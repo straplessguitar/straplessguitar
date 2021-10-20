@@ -2,4 +2,11 @@
 
 My name is João Bica, call me JJ! I'm a musician, currently learning web dev through The Odin Project.
 
-Check out this [recipe list](https://straplessguitar.github.io/odin-recipes/index.html) I made on a TOP exercise!
+### Projects
+
+- [Recipe List](https://straplessguitar.github.io/odin-recipes/index.html)
+Small list with two recipes, great starter for CSS!
+
+- [Rock, Paper, Scissors](https://straplessguitar.github.io/odin-rockpaperscissors/)
+Simple game, maybe I'll improve it into "Rock, Paper, Scissors, Lizard, Spock" hehe\
+I recommend using pc as you'll have to use the console to start the game for now!
