@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is João Bica, call me JJ! I'm a musician, currently learning web dev through The Odin Project.
+My name is João Bica, call me JJ! I'm a musician, but every now and then I write a couple lines for fun!
 
 ### Projects
 
